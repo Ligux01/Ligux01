@@ -9,13 +9,20 @@ I'm a Computer Engineering student at Birzeit University. I have experience with
 ## Featured projects
 
 - [**Psychonauts-NX**](https://github.com/Ligux01/Psychonauts-nx) — A native Nintendo Switch port of Psychonauts (2005) using static recompilation.
+- [**Usage Metering and Quota Service**](https://github.com/Ligux01/Usage-Metering-and-Quota-Service) — A TypeScript API that tracks usage per account and user, enforces quotas, and prevents double-counting on retries.
 - [**Silent Hill 2 NX**](https://github.com/cutarev/sh2-nx) — I contributed to this native Nintendo Switch port of Silent Hill 2.
 - [**Operating System Process Simulation**](https://github.com/Ligux01/Operating-System-Process-Simulation) — A C simulator for CPU scheduling, resource allocation, and deadlock recovery.
 
 ## Tools I use
 
 <p>
-  <img alt="C, C++, Java, Python, TypeScript, Linux, Bash, and Git" src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,linux,bash,git&amp;perline=8">
+  <img alt="C, C++, Java, Python, Linux, Bash, and Git" src="https://skillicons.dev/icons?i=c,cpp,java,py,linux,bash,git&amp;perline=8">
+</p>
+
+### Full-stack development
+
+<p>
+  <img alt="HTML, CSS, JavaScript, TypeScript, Cypress, Node.js, Express, PostgreSQL, Docker, and npm" src="https://skillicons.dev/icons?i=html,css,js,ts,cypress,nodejs,express,postgres,docker,npm&amp;perline=5">
 </p>
 
 ## Support my work
