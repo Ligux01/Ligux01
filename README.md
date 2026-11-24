@@ -9,7 +9,7 @@ I'm a Computer Engineering student at Birzeit University. I have experience with
 ## Featured projects
 
 - [**Psychonauts-NX**](https://github.com/Ligux01/Psychonauts-nx) — A native Nintendo Switch port of Psychonauts (2005) using static recompilation.
-- [**Silent Hill 2 NX**](https://github.com/Ligux01/sh2-nx) — My fork of the native Switch port of Silent Hill 2.
+- [**Silent Hill 2 NX**](https://github.com/cutarev/sh2-nx) — I contributed to this native Nintendo Switch port of Silent Hill 2.
 - [**Operating System Process Simulation**](https://github.com/Ligux01/Operating-System-Process-Simulation) — A C simulator for CPU scheduling, resource allocation, and deadlock recovery.
 
 ## Tools I use
