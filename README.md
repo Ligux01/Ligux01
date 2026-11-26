@@ -4,7 +4,7 @@
   <img alt="Linux, systems programming, reverse engineering, and game porting" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;pause=1200&amp;color=22A06B&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Linux+%2F+Systems+Programming;Reverse+Engineering+%2F+Game+Porting">
 </p>
 
-I'm a Computer Engineering student at Birzeit University. I have experience with full-stack development, and I like tinkering with hardware and figuring out how software works under the hood. Lately, that's meant getting old PC games running on the Switch.
+I'm a Computer Engineering student at Birzeit University. I have experience with full-stack development, and I like tinkering with hardware and figuring out how software works under the hood.
 
 ## Featured projects
 
